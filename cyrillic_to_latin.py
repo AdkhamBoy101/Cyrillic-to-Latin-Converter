@@ -92,3 +92,6 @@ class Converter(object):
 
 cir = Converter('Ваши действия в режиме инкогнито будут недоступны другим пользователям этого устройства. Однако закладки и скачанные файлы сохранятся')
 print(cir.transliterate()) # Vashi deystviya v rejime inkognito budut nedostupni drugim polьzovatelyam etogo ustroystva. Odnako zakladki i skachannie fayli soxranyatsya
+
+
+
