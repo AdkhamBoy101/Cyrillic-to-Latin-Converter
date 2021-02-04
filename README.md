@@ -1,1 +1,1 @@
-# Cyrillic-to-Latin-Converter. This converter converts unicodes of cyrillic (mainly uzbek language) to latin.
+# Cyrillic-to-Latin-Converter. This Python code converts unicodes of cyrillic (mainly uzbek language) to latin.
